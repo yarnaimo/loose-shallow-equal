@@ -15,12 +15,7 @@
     "test": "NODE_ENV=test jest",
     "ts-node": "ts-node"
   },
-  "dependencies": {
-    "@sindresorhus/is": "^4.0.0",
-    "dayjs": "^1.10.4",
-    "lifts": "^0.1.4",
-    "remeda": "^0.0.27"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@arkweid/lefthook": "^0.7.2",
     "@sindresorhus/tsconfig": "^1.0.2",
