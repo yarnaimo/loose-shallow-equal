@@ -1,6 +1,6 @@
 {
   "name": "@yarnaimo/loose-shallow-equal",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": "github:yarnaimo/loose-shallow-equal",
   "license": "MIT",
   "author": "yamaimo <yarnaimo@gmail.com>",
